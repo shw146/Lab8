@@ -4,7 +4,7 @@
 Shawn Wang
 
 ## Github Pages URL:
-
+https://shw146.github.io/Lab8/
 
 ## How are graceful degradation and service workers related?
 Graceful degradation starts off by assuming that everyone is working with the
